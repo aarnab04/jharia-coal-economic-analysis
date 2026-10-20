@@ -77,3 +77,49 @@ The analysis investigates multi-year production output trends, mine-level operat
     ├── jharkhand_raw_coal_output_vs_national_share.png
     ├── top15_producing_mines_jharia.png
     └── coal_royalty_and_dmft_trends.png
+```
+---
+
+## 📊 Preview
+## 📊 Visualizations & Data Insights
+
+### 1. Jharkhand Raw Coal Output vs. National Share (2012–2022)
+*A 10-year comparative dual-axis visualization demonstrating rising regional extraction volume alongside a contracting national market share.*
+
+<p align="center">
+  <img src="assets/jharkhand_raw_coal_output_vs_national_share.png" alt="Jharkhand Raw Coal Output vs National Share" width="850">
+</p>
+
+- **Volume Growth:** Rose from **111.27 MT** in FY 2012–13 to **130.10 MT** in FY 2021–22.
+- **National Contraction:** State share declined from **20.00%** down to **16.72%** due to faster capacity additions in competing states.
+
+---
+
+### 2. Mine-Level Production Skewness (Jharia Coalfield)
+*Bar chart of the top 15 producing operations in Jharia, illustrating significant output concentration.*
+
+<p align="center">
+  <img src="assets/top15_producing_mines_jharia.png" alt="Top 15 Producing Mines Jharia" width="850">
+</p>
+
+- **Top Producers:** Led by Amalgamated BOCP (**5.36 MT**), AMP Colliery (**4.86 MT**), and NTST-Jeenagora (**4.77 MT**).
+- **Statistical Variance:** Mean output (**1.12 MT**) significantly exceeds median output (**0.56 MT**), driven by a high standard deviation ($\sigma = 1.45$ MT).
+
+---
+
+### 3. Coal Royalty and DMFT Revenue Trends (2017–2023)
+*Annual fiscal inflows generated for state revenue and the District Mineral Foundation Trust.*
+
+<p align="center">
+  <img src="assets/coal_royalty_and_dmft_trends.png" alt="Coal Royalty and DMFT Revenue Trends" width="850">
+</p>
+
+- **Cumulative Inflows:** Over **₹21,912.95 Cr** collected in royalties and **₹6,077.78 Cr** under DMFT mandates.
+- **Post-Pandemic Surge:** Strong rebound from a FY 2020–21 low (₹2,879.95 Cr) to a peak of **₹4,704.14 Cr** in FY 2022–23.
+
+---
+
+## 👤 Author
+Arnab Sinha  
+Website: https://arnabsinha.wuaze.com  
+Aspiring Data Analyst
