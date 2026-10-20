@@ -59,9 +59,9 @@ The analysis investigates multi-year production output trends, mine-level operat
 
 | Chart Name | File Location | Key Metric |
 | :--- | :--- | :--- |
-| **Jharkhand Raw Coal Output vs. National Share** | `Assets/jharkhand_raw_coal_output_vs_national_share.png` | 10-Year volume vs. national market share |
-| **Top 15 Producing Coal Mines** | `Assets/top15_producing_mines_jharia.png` | Mine-level output in Million Tonnes (MT) |
-| **Coal Royalty & DMFT Revenue Trends** | `Assets/coal_royalty_and_dmft_trends.png` | Fiscal receipts in INR Crores (2017–2023) |
+| **Jharkhand Raw Coal Output vs. National Share** | `assets/jharkhand_raw_coal_output_vs_national_share.png` | 10-Year volume vs. national market share |
+| **Top 15 Producing Coal Mines** | `assets/top15_producing_mines_jharia.png` | Mine-level output in Million Tonnes (MT) |
+| **Coal Royalty & DMFT Revenue Trends** | `assets/coal_royalty_and_dmft_trends.png` | Fiscal receipts in INR Crores (2017–2023) |
 
 ---
 
