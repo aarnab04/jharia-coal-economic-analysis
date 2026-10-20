@@ -81,7 +81,6 @@ The analysis investigates multi-year production output trends, mine-level operat
 ---
 
 ## 📊 Preview
-## 📊 Visualizations & Data Insights
 
 ### 1. Jharkhand Raw Coal Output vs. National Share (2012–2022)
 *A 10-year comparative dual-axis visualization demonstrating rising regional extraction volume alongside a contracting national market share.*
