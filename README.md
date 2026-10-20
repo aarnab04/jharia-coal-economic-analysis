@@ -18,8 +18,9 @@ The analysis investigates multi-year production output trends, mine-level operat
 
 ## 🛠️ Tools & Methodology
 - **Research Design:** Descriptive and empirical case study combining secondary institutional data with qualitative field observations.
-- **Data Analysis & Processing:** Microsoft Excel (data cleaning, metric computation, descriptive statistics, and correlation analysis).
-- **Documentation & Report Design:** Microsoft Word (document structuring, typography, visual layouts, and publication formatting).
+- **Statistical Tools & Techniques:** Computed descriptive statistics (**Mean**, **Median**, **Standard Deviation**, and **Min–Max Range**) to evaluate operational skewness across mines, and applied **Pearson Correlation Analysis ($r$)**.
+- **Data Analysis & Processing:** **Microsoft Excel** (data cleaning, metric computation, descriptive statistics, and correlation analysis).
+- **Documentation & Report Design:** **Microsoft Word** (document structuring, typography, visual layouts, and publication formatting).
 - **AI Research & Synthesis Assistant:** Google NotebookLM (source analysis, conceptual roadmaps, and section synthesis).
 - **Data Sources:** 
   - Coal Controller's Organization (Ministry of Coal, Government of India)
